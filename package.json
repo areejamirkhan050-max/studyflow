@@ -1,0 +1,22 @@
+{
+  "name": "studyflow",
+  "version": "1.0.0",
+  "description": "Smart Study Planner for Pakistani Students – Built with Kiro IDE",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  },
+  "keywords": ["study", "planner", "pakistan", "students", "kiro"],
+  "author": "Built with Kiro IDE",
+  "license": "MIT"
+}
